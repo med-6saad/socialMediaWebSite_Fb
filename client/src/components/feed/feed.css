@@ -1,0 +1,11 @@
+.feedbar{
+    flex: 5.5;
+}
+.feedWrapper{
+    padding: 20px;
+    height: 100vh;
+    overflow: scroll;
+}
+::-webkit-scrollbar{
+    width: 0px;
+}
